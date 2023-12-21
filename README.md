@@ -1,10 +1,8 @@
 # Online-Healthcare-Donation-System
 
-Certainly! Here's a comprehensive description of the online Healthcare Donation System you've developed:
 
-Title: Online Healthcare Donation System
 
-Description:
+<b>Description:<b>
 
 The Online Healthcare Donation System is a web-based platform designed to streamline and facilitate the process of healthcare donations. The system is built using Java servlets, core Java, JDBC for database connectivity, and incorporates HTML and CSS for the user interface.
 
