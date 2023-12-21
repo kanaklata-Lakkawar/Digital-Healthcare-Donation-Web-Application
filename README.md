@@ -50,6 +50,7 @@ This includes viewing and modifying personal information.
 Password Management:
 
 Users can change their passwords to ensure account security.
+
 <b>Workflow:</b>
 
 User Registration:
