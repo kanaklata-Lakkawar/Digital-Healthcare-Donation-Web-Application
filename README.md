@@ -13,7 +13,7 @@ Core Java
 JDBC for Database Connectivity
 HTML and CSS
 
-<b>Purpose:<b/>
+<b>Purpose:</b>
 
 The Online Healthcare Donation System aims to create a seamless and transparent platform for healthcare-related donations, ensuring that NGOs receive the necessary support and users can contribute to healthcare initiatives effectively
 
@@ -50,7 +50,7 @@ This includes viewing and modifying personal information.
 Password Management:
 
 Users can change their passwords to ensure account security.
-Workflow:
+<b>Workflow:</b>
 
 User Registration:
 
