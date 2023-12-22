@@ -70,7 +70,6 @@ NGO Requests:
 
 NGOs can request specific medicines through the system.
 
-![Screenshot 2023-12-22 155919](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/42e54206-11c7-49e7-b6fe-91d2123322f6)
 ![Screenshot 2023-12-22 155944](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/deb28dbe-64fa-4f8f-ac8f-4182a920673c)
 
 Donations:
