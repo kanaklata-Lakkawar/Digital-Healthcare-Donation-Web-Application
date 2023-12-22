@@ -74,12 +74,13 @@ NGO Requests:
 
 NGOs can request specific medicines through the system.
 
-![Screenshot 2023-12-22 155506](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/3e693453-141b-4aeb-8362-fa150ba6b514)
+
 
 Donations:
 
 Users can view NGO requests and make voluntary donations of medicines.
 
+![Screenshot 2023-12-22 155506](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/3e693453-141b-4aeb-8362-fa150ba6b514)
 ![Screenshot 2023-12-22 155601](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/52e3ade6-32d2-4ae7-bd64-10feb7c15bcf)
 ![Screenshot 2023-12-22 155653](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/f6865258-fe46-423d-90b3-ce01bacd963f)
 ![Screenshot 2023-12-22 154704](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/efa1abbc-90de-4861-b852-9c119b6b2784)
