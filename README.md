@@ -60,21 +60,18 @@ Users sign up for the system, but their accounts remain inactive until approved 
 Admin Approval:
 
 Admins review and confirm user registrations, enabling users to log in.
-
-![Screenshot 2023-12-22 155919](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/42e54206-11c7-49e7-b6fe-91d2123322f6)
-![Screenshot 2023-12-22 155944](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/deb28dbe-64fa-4f8f-ac8f-4182a920673c)
 ![Screenshot 2023-12-22 154256](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/b2c3b6ce-ee7a-4e8e-bb8d-a644412fa8f8)
 ![Screenshot 2023-12-22 154314](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/85d717d8-4fe6-43dc-b8cf-1faaf890855a)
 ![Screenshot 2023-12-22 154458](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/17b93f6d-1e26-472e-a428-c9ba45a5ad14)
 ![Screenshot 2023-12-22 154547](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/ce625cc0-ac91-45e7-9e72-a3cc2b5fc618)
 ![Screenshot 2023-12-22 154629](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/ef644323-3224-45c2-a54a-7a3a7a155c26)
 
-
 NGO Requests:
 
 NGOs can request specific medicines through the system.
 
-
+![Screenshot 2023-12-22 155919](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/42e54206-11c7-49e7-b6fe-91d2123322f6)
+![Screenshot 2023-12-22 155944](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/deb28dbe-64fa-4f8f-ac8f-4182a920673c)
 
 Donations:
 
