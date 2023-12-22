@@ -52,7 +52,7 @@ Password Management:
 Users can change their passwords to ensure account security.
 
 <b>Workflow:</b>
-![Screenshot 2023-12-22 155601](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/52e3ade6-32d2-4ae7-bd64-10feb7c15bcf)
+
 User Registration:
 
 Users sign up for the system, but their accounts remain inactive until approved by the admin.
@@ -61,7 +61,6 @@ Admin Approval:
 
 Admins review and confirm user registrations, enabling users to log in.
 
-![Screenshot 2023-12-22 155653](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/f6865258-fe46-423d-90b3-ce01bacd963f)
 ![Screenshot 2023-12-22 155919](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/42e54206-11c7-49e7-b6fe-91d2123322f6)
 ![Screenshot 2023-12-22 155944](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/deb28dbe-64fa-4f8f-ac8f-4182a920673c)
 ![Screenshot 2023-12-22 154256](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/b2c3b6ce-ee7a-4e8e-bb8d-a644412fa8f8)
@@ -81,6 +80,8 @@ Donations:
 
 Users can view NGO requests and make voluntary donations of medicines.
 
+![Screenshot 2023-12-22 155601](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/52e3ade6-32d2-4ae7-bd64-10feb7c15bcf)
+![Screenshot 2023-12-22 155653](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/f6865258-fe46-423d-90b3-ce01bacd963f)
 ![Screenshot 2023-12-22 154704](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/efa1abbc-90de-4861-b852-9c119b6b2784)
 ![Screenshot 2023-12-22 154729](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/9bce1bea-4f19-422e-b980-dec5c5ab9135)
 ![Screenshot 2023-12-22 154841](https://github.com/kanaklata-Lakkawar/Online-Healthcare-Donation-System/assets/114863229/a6904a98-87d3-45bc-a5ab-415327fac849)
