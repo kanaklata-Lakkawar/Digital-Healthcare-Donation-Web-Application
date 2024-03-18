@@ -4,7 +4,7 @@
 
 <b>Description:</b>
 
-The MedShare Initiative is a web-based platform designed to streamline and facilitate the process of medicine donations. The system is built using Java servlets, core Java, JDBC for database connectivity, and incorporates HTML and CSS for the user interface.
+The MedShare Initiative is a web-based platform designed to streamline and facilitate the process of medicine donations. The project is built using Java servlets, core Java, JDBC for database connectivity, and incorporates HTML and CSS for the user interface.
 
 Technologies Used:
 
@@ -52,7 +52,7 @@ Users can change their passwords for account security.
 
 <b>Purpose:</b>
 
-The Online Healthcare Donation System aims to create a seamless and transparent platform for healthcare-related donations, ensuring that NGOs receive the necessary support and users can contribute to healthcare initiatives effectively
+The MedShare Initiative aims to create a seamless and transparent platform for medicine-related donations, ensuring that NGOs receive the necessary support and users can contribute to medicine initiatives effectively
 
 <b>Features:</b>
 
