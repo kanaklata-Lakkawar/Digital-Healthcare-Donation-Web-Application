@@ -5,6 +5,7 @@
 <b>Description:</b>
 
 The MedShare Initiative is a web-based platform designed to streamline and facilitate the process of medicine donations. The project is built using Java servlets, core Java, JDBC for database connectivity, and incorporates HTML and CSS for the user interface.
+![Screenshot 2024-03-17 204534](https://github.com/kanaklata-Lakkawar/Jewelscart_E-Commerce_Web_Application/assets/114863229/e53b9212-51a4-4228-b7a2-c80dda64403a)
 
 Technologies Used:
 
